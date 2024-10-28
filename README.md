@@ -5,4 +5,6 @@ This UEFI setup password brute-force is made as an attempt to crack the password
 
 The main language used for this purpose is C++, it is based on HP CMSL and its PowerShell scripts that can be found on HP's website:
 
->https://www.hp.com/us-en/solutions/client-management-solutions/download.html
+> https://www.hp.com/us-en/solutions/client-management-solutions/download.html
+
+**Licensed under the GNU GPL 3 license.**
